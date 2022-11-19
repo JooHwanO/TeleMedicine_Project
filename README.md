@@ -1,4 +1,4 @@
-# TeleMedicine_Project - 원격의료프로그램_졸업작품
+# TeleMedicine_Project - 원격의료프로그램__졸업작품
 <br>
 <hr>
 
